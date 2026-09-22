@@ -1,0 +1,784 @@
+{
+  "users": [
+    {
+      "_id": "e17e4124a87527b9bd09cbaa",
+      "name": "Zara V. Style",
+      "email": "testcreator_1790097916168@example.com",
+      "password": "$2b$10$km5h2UldPUzKLanoLx.ilePuqDFUg2vqgfRYI718iWYXyCfjFkLk2",
+      "role": "Influencer",
+      "createdAt": "2026-09-22T17:25:16.269Z",
+      "updatedAt": "2026-09-22T17:25:28.672Z"
+    },
+    {
+      "_id": "2d9065cb31f4018cac1c193f",
+      "name": "Audit Brand Corp",
+      "email": "testbrand_1790097915955@example.com",
+      "password": "$2b$10$e2QLjNQ.7nULJ1/rIo4oLOsi87fzfQH0A3s/OQsIhqahS8kslg/lW",
+      "role": "Brand",
+      "createdAt": "2026-09-22T17:25:16.157Z",
+      "updatedAt": "2026-09-22T17:25:16.157Z"
+    },
+    {
+      "_id": "385d1ba893c769b901e8b414",
+      "name": "Audit Creator Zara",
+      "email": "testcreator_1790097891094@example.com",
+      "password": "$2b$10$SKQx/nfVG45X4lN.gVkpWu6MfKrC4sMI0zOZMNqUh8IWv3b8s.qDG",
+      "role": "Influencer",
+      "createdAt": "2026-09-22T17:24:51.196Z",
+      "updatedAt": "2026-09-22T17:24:51.196Z"
+    },
+    {
+      "_id": "3b6b6b8dd5ccdf8c96732a1f",
+      "name": "Audit Brand Corp",
+      "email": "testbrand_1790097890863@example.com",
+      "password": "$2b$10$Er0zeO9tBbg9hq35GhUBNu0Vi1jHa6IOTmE.pO3FcbwgqHz8mji8O",
+      "role": "Brand",
+      "createdAt": "2026-09-22T17:24:51.081Z",
+      "updatedAt": "2026-09-22T17:24:51.081Z"
+    },
+    {
+      "_id": "0ee2e0241afb586b2def855a",
+      "name": "manu",
+      "email": "manu@123gmail.com",
+      "password": "$2b$10$eUj0O0U6G7c8mJpgZrTeAeEUcq4vo32.O.fmknxLwDEvrxd3xZx1a",
+      "role": "Influencer",
+      "createdAt": "2026-09-22T17:15:57.850Z",
+      "updatedAt": "2026-09-22T17:15:57.850Z"
+    },
+    {
+      "_id": "60d2c9db2d9f6418ff60a7b4",
+      "name": "manu",
+      "email": "m@123gmail.com",
+      "password": "$2b$10$SMx98QxW4oN3t39w41KAlOJd4G0gOJgaB0yb1M2MYtybOZcIm6fcS",
+      "role": "Influencer",
+      "createdAt": "2026-09-22T17:15:01.174Z",
+      "updatedAt": "2026-09-22T17:15:01.174Z"
+    },
+    {
+      "_id": "9021972cf7189e58c1cae4d0",
+      "name": "Vikram Singhania",
+      "email": "vikram@wealthwisely.in",
+      "password": "$2b$10$NQH8JtvTIl6tp7rZyqqlHOGtcSr3.kaAzRNza5gLauojtKfAvNtbO",
+      "role": "Influencer",
+      "createdAt": "2026-09-22T16:40:53.926Z",
+      "updatedAt": "2026-09-22T16:40:53.926Z"
+    },
+    {
+      "_id": "6d05863b57ef82150f020863",
+      "name": "Dev Rajput",
+      "email": "dev@gamerzone.in",
+      "password": "$2b$10$NQH8JtvTIl6tp7rZyqqlHOGtcSr3.kaAzRNza5gLauojtKfAvNtbO",
+      "role": "Influencer",
+      "createdAt": "2026-09-22T16:40:53.926Z",
+      "updatedAt": "2026-09-22T16:40:53.926Z"
+    },
+    {
+      "_id": "d10bcdb6818765cc3ce57d20",
+      "name": "Tanya Deshmukh",
+      "email": "tanya@glowup.com",
+      "password": "$2b$10$NQH8JtvTIl6tp7rZyqqlHOGtcSr3.kaAzRNza5gLauojtKfAvNtbO",
+      "role": "Influencer",
+      "createdAt": "2026-09-22T16:40:53.925Z",
+      "updatedAt": "2026-09-22T16:40:53.925Z"
+    },
+    {
+      "_id": "95fbf092e1aee7ea32cdad39",
+      "name": "Meera Nair",
+      "email": "meera@wanderlust.in",
+      "password": "$2b$10$NQH8JtvTIl6tp7rZyqqlHOGtcSr3.kaAzRNza5gLauojtKfAvNtbO",
+      "role": "Influencer",
+      "createdAt": "2026-09-22T16:40:53.924Z",
+      "updatedAt": "2026-09-22T16:40:53.924Z"
+    },
+    {
+      "_id": "96fa5d10f407f93f6b88d910",
+      "name": "Aarav Kapoor",
+      "email": "aarav@foodiejourney.com",
+      "password": "$2b$10$NQH8JtvTIl6tp7rZyqqlHOGtcSr3.kaAzRNza5gLauojtKfAvNtbO",
+      "role": "Influencer",
+      "createdAt": "2026-09-22T16:40:53.924Z",
+      "updatedAt": "2026-09-22T16:40:53.924Z"
+    },
+    {
+      "_id": "a814d867b9a49e5d9d43d7f7",
+      "name": "Ananya Iyer",
+      "email": "ananya@fitlife.in",
+      "password": "$2b$10$NQH8JtvTIl6tp7rZyqqlHOGtcSr3.kaAzRNza5gLauojtKfAvNtbO",
+      "role": "Influencer",
+      "createdAt": "2026-09-22T16:40:53.923Z",
+      "updatedAt": "2026-09-22T16:40:53.923Z"
+    },
+    {
+      "_id": "017fc4d80c62d2c703b08609",
+      "name": "Kabir Mehta",
+      "email": "kabir@fashionflow.com",
+      "password": "$2b$10$NQH8JtvTIl6tp7rZyqqlHOGtcSr3.kaAzRNza5gLauojtKfAvNtbO",
+      "role": "Influencer",
+      "createdAt": "2026-09-22T16:40:53.923Z",
+      "updatedAt": "2026-09-22T16:40:53.923Z"
+    },
+    {
+      "_id": "4739c9e10577637743cd68ec",
+      "name": "Rhea Sen (TechWithRhea)",
+      "email": "rhea@techverse.com",
+      "password": "$2b$10$NQH8JtvTIl6tp7rZyqqlHOGtcSr3.kaAzRNza5gLauojtKfAvNtbO",
+      "role": "Influencer",
+      "createdAt": "2026-09-22T16:40:53.922Z",
+      "updatedAt": "2026-09-22T17:14:00.290Z"
+    },
+    {
+      "_id": "8a2cb739fc692e1eb835ae52",
+      "name": "Volt Nutrition (Rohan Verma)",
+      "email": "contact@voltnutrition.in",
+      "password": "$2b$10$NQH8JtvTIl6tp7rZyqqlHOGtcSr3.kaAzRNza5gLauojtKfAvNtbO",
+      "role": "Brand",
+      "createdAt": "2026-09-22T16:40:53.922Z",
+      "updatedAt": "2026-09-22T16:40:53.922Z"
+    },
+    {
+      "_id": "a46ea301e47a3cd8183d31b9",
+      "name": "Aura Glow Skincare (Priya Sharma)",
+      "email": "brand@auraglow.com",
+      "password": "$2b$10$NQH8JtvTIl6tp7rZyqqlHOGtcSr3.kaAzRNza5gLauojtKfAvNtbO",
+      "role": "Brand",
+      "createdAt": "2026-09-22T16:40:53.921Z",
+      "updatedAt": "2026-09-22T16:40:53.921Z"
+    }
+  ],
+  "influencerProfiles": [
+    {
+      "_id": "24ec21c47c37aa1b7edf5df1",
+      "userId": "e17e4124a87527b9bd09cbaa",
+      "bio": "Fashion curator & conscious skincare reviewer based in Mumbai.",
+      "category": "Fashion",
+      "followers": 125000,
+      "engagementRate": 5.4,
+      "location": "Mumbai, India",
+      "startingPrice": 22000,
+      "platforms": [
+        "Instagram",
+        "YouTube"
+      ],
+      "profileImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&h=300&fit=crop&crop=faces",
+      "createdAt": "2026-09-22T17:25:16.269Z",
+      "updatedAt": "2026-09-22T17:25:28.672Z",
+      "instagram": "https://instagram.com/zaravstyle"
+    },
+    {
+      "_id": "f2b0b373f4d2eb6c56773a6b",
+      "userId": "385d1ba893c769b901e8b414",
+      "bio": "Passionate digital creator ready to collaborate on authentic brand stories.",
+      "category": "Lifestyle",
+      "followers": 10000,
+      "engagementRate": 3.5,
+      "location": "Mumbai, India",
+      "startingPrice": 5000,
+      "platforms": [
+        "Instagram"
+      ],
+      "profileImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&h=300&fit=crop&crop=faces",
+      "createdAt": "2026-09-22T17:24:51.197Z",
+      "updatedAt": "2026-09-22T17:24:51.197Z"
+    },
+    {
+      "_id": "63ab6e603aa7a9daee3e2d93",
+      "userId": "0ee2e0241afb586b2def855a",
+      "bio": "Passionate digital creator ready to collaborate on authentic brand stories.",
+      "category": "Lifestyle",
+      "followers": 10000,
+      "engagementRate": 3.5,
+      "location": "Mumbai, India",
+      "startingPrice": 5000,
+      "platforms": [
+        "Instagram"
+      ],
+      "profileImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&h=300&fit=crop&crop=faces",
+      "createdAt": "2026-09-22T17:15:57.851Z",
+      "updatedAt": "2026-09-22T17:15:57.851Z"
+    },
+    {
+      "_id": "065e69316243c96d7ccb22a0",
+      "userId": "60d2c9db2d9f6418ff60a7b4",
+      "bio": "Passionate digital creator ready to collaborate on authentic brand stories.",
+      "category": "Lifestyle",
+      "followers": 10000,
+      "engagementRate": 3.5,
+      "location": "Mumbai, India",
+      "startingPrice": 5000,
+      "platforms": [
+        "Instagram"
+      ],
+      "profileImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&h=300&fit=crop&crop=faces",
+      "createdAt": "2026-09-22T17:15:01.175Z",
+      "updatedAt": "2026-09-22T17:15:01.175Z"
+    },
+    {
+      "_id": "fdf45d9de64579b8c3471d5d",
+      "userId": "9021972cf7189e58c1cae4d0",
+      "bio": "Demystifying personal finance, index funds, smart budgeting, and tax hacks for Gen-Z.",
+      "category": "Finance",
+      "followers": 110000,
+      "engagementRate": 4.1,
+      "location": "Ahmedabad, India",
+      "startingPrice": 15000,
+      "platforms": [
+        "YouTube",
+        "Instagram"
+      ],
+      "profileImage": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=faces",
+      "instagram": "https://instagram.com/vikramfinance",
+      "youtube": "https://youtube.com/@wealthwisely",
+      "createdAt": "2026-09-22T16:40:53.926Z",
+      "updatedAt": "2026-09-22T16:40:53.926Z"
+    },
+    {
+      "_id": "d03c8360197bf101dcacbfda",
+      "userId": "6d05863b57ef82150f020863",
+      "bio": "Competitive esports highlights, PC build guides, and gaming gear testing.",
+      "category": "Gaming",
+      "followers": 450000,
+      "engagementRate": 7.5,
+      "location": "Hyderabad, India",
+      "startingPrice": 35000,
+      "platforms": [
+        "YouTube"
+      ],
+      "profileImage": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=400&h=400&fit=crop&crop=faces",
+      "instagram": "",
+      "youtube": "https://youtube.com/@devgamerindia",
+      "createdAt": "2026-09-22T16:40:53.926Z",
+      "updatedAt": "2026-09-22T16:40:53.926Z"
+    },
+    {
+      "_id": "16a0d24c2d14d45d23081c43",
+      "userId": "d10bcdb6818765cc3ce57d20",
+      "bio": "Dermatologist-approved skincare breakdowns, glass-skin tutorials, and honest SPF reviews.",
+      "category": "Beauty",
+      "followers": 195000,
+      "engagementRate": 5.8,
+      "location": "Mumbai, India",
+      "startingPrice": 22000,
+      "platforms": [
+        "Instagram"
+      ],
+      "profileImage": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400&h=400&fit=crop&crop=faces",
+      "instagram": "https://instagram.com/tanyaglows",
+      "youtube": "",
+      "createdAt": "2026-09-22T16:40:53.925Z",
+      "updatedAt": "2026-09-22T16:40:53.925Z"
+    },
+    {
+      "_id": "c36e1173ac8143f4be2777dd",
+      "userId": "95fbf092e1aee7ea32cdad39",
+      "bio": "Solo offbeat travel, sustainable homestays, drone cinematography, and culture.",
+      "category": "Travel",
+      "followers": 175000,
+      "engagementRate": 4.4,
+      "location": "Goa, India",
+      "startingPrice": 20000,
+      "platforms": [
+        "Instagram"
+      ],
+      "profileImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=400&fit=crop&crop=faces",
+      "instagram": "https://instagram.com/meera_wander",
+      "youtube": "",
+      "createdAt": "2026-09-22T16:40:53.925Z",
+      "updatedAt": "2026-09-22T16:40:53.925Z"
+    },
+    {
+      "_id": "393c3b541736d9e9adc54fbb",
+      "userId": "96fa5d10f407f93f6b88d910",
+      "bio": "Street food discoverer, artisanal recipes, and restaurant kitchen deep-dives.",
+      "category": "Food",
+      "followers": 210000,
+      "engagementRate": 3.9,
+      "location": "Delhi NCR, India",
+      "startingPrice": 16000,
+      "platforms": [
+        "Instagram",
+        "YouTube"
+      ],
+      "profileImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop&crop=faces",
+      "instagram": "https://instagram.com/aaravfoodtrails",
+      "youtube": "https://youtube.com/@aaravkitchen",
+      "createdAt": "2026-09-22T16:40:53.924Z",
+      "updatedAt": "2026-09-22T16:40:53.924Z"
+    },
+    {
+      "_id": "f8cf2021ff9023660308e4d6",
+      "userId": "a814d867b9a49e5d9d43d7f7",
+      "bio": "Holistic strength training, vegetarian high-protein diet tips, and mobility.",
+      "category": "Fitness",
+      "followers": 88000,
+      "engagementRate": 6.1,
+      "location": "Pune, India",
+      "startingPrice": 12000,
+      "platforms": [
+        "Instagram",
+        "YouTube"
+      ],
+      "profileImage": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=400&fit=crop&crop=faces",
+      "instagram": "https://instagram.com/ananyaiyerfit",
+      "youtube": "https://youtube.com/@ananyafit",
+      "createdAt": "2026-09-22T16:40:53.924Z",
+      "updatedAt": "2026-09-22T16:40:53.924Z"
+    },
+    {
+      "_id": "53d396b58e34f21257f3c130",
+      "userId": "017fc4d80c62d2c703b08609",
+      "bio": "Minimalist menswear styling, urban aesthetic lookbooks, and luxury grooming.",
+      "category": "Fashion",
+      "followers": 320000,
+      "engagementRate": 5.2,
+      "location": "Mumbai, India",
+      "startingPrice": 25000,
+      "platforms": [
+        "Instagram"
+      ],
+      "profileImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=faces",
+      "instagram": "https://instagram.com/kabirmehta_style",
+      "youtube": "",
+      "createdAt": "2026-09-22T16:40:53.923Z",
+      "updatedAt": "2026-09-22T16:40:53.923Z"
+    },
+    {
+      "_id": "d9767486bdb567ee4b60e768",
+      "userId": "4739c9e10577637743cd68ec",
+      "bio": "Tech reviewer, unboxings, clean desk setups, and developer life gear.",
+      "category": "Tech",
+      "followers": 145000,
+      "engagementRate": 4.8,
+      "location": "Bengaluru, India",
+      "startingPrice": 18000,
+      "platforms": [
+        "YouTube",
+        "Instagram"
+      ],
+      "profileImage": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop&crop=faces",
+      "instagram": "https://instagram.com/techwithrhea",
+      "youtube": "https://youtube.com/@techwithrhea",
+      "createdAt": "2026-09-22T16:40:53.922Z",
+      "updatedAt": "2026-09-22T17:14:00.290Z",
+      "otherLinks": ""
+    }
+  ],
+  "campaigns": [
+    {
+      "_id": "b01a1812293dade508114ce4",
+      "brandId": "2d9065cb31f4018cac1c193f",
+      "title": "Summer Glow Serum Launch (Updated)",
+      "productName": "Vitamin C Brightening Serum",
+      "productDescription": "High potency 15% serum",
+      "category": "Beauty",
+      "campaignType": "Paid",
+      "budget": 18000,
+      "deliverables": "2 Reels + 3 Stories",
+      "deadline": "2026-11-15",
+      "targetAudience": "",
+      "platform": "Instagram",
+      "description": "Highlight honest before/after test",
+      "status": "Active",
+      "createdAt": "2026-09-22T17:25:16.394Z",
+      "updatedAt": "2026-09-22T17:25:16.403Z"
+    },
+    {
+      "_id": "c22a40c4cf8301f027fe9aea",
+      "brandId": "3b6b6b8dd5ccdf8c96732a1f",
+      "title": "Summer Glow Serum Launch (Updated)",
+      "productName": "Vitamin C Brightening Serum",
+      "productDescription": "High potency 15% serum",
+      "category": "Beauty",
+      "campaignType": "Paid",
+      "budget": 18000,
+      "deliverables": "2 Reels + 3 Stories",
+      "deadline": "2026-11-15",
+      "targetAudience": "",
+      "platform": "Instagram",
+      "description": "Highlight honest before/after test",
+      "status": "Active",
+      "createdAt": "2026-09-22T17:24:51.328Z",
+      "updatedAt": "2026-09-22T17:24:51.341Z"
+    },
+    {
+      "_id": "6c268899d35213e22f04a59b",
+      "brandId": "8a2cb739fc692e1eb835ae52",
+      "title": "Volt Pure Whey Isolate Monsoon Strength Challenge",
+      "productName": "Volt Whey Isolate 2kg Chocolate",
+      "productDescription": "27g ultra-filtered protein per scoop, zero added sugar, digestive enzymes.",
+      "category": "Fitness",
+      "campaignType": "Paid",
+      "budget": 60000,
+      "deliverables": "1 High-energy Gym Reel + 1 YouTube Shorts workout smoothie recipe",
+      "deadline": "2026-10-20",
+      "targetAudience": "Fitness enthusiasts, bodybuilders, crossfitters aged 20-40",
+      "platform": "Both",
+      "description": "Showcase mixability test in shaker and real-time macros breakdown.",
+      "status": "Active",
+      "createdAt": "2026-09-22T16:40:53.927Z",
+      "updatedAt": "2026-09-22T16:40:53.927Z"
+    },
+    {
+      "_id": "b1f8670119309329aabf5fd2",
+      "brandId": "a46ea301e47a3cd8183d31b9",
+      "title": "Barrier Repair Ceramide Moisturizer Festive Campaign",
+      "productName": "Ceramide Rich Gel Cream",
+      "productDescription": "Winter hydration locked with 5 essential ceramides and hyaluronic acid.",
+      "category": "Beauty",
+      "campaignType": "Paid",
+      "budget": 35000,
+      "deliverables": "1 GRWM Reel featuring product before makeup application",
+      "deadline": "2026-10-30",
+      "targetAudience": "College students and working professionals dealing with dry skin",
+      "platform": "Instagram",
+      "description": "Focus on prep-and-prime benefits under festive makeup.",
+      "status": "Active",
+      "createdAt": "2026-09-22T16:40:53.927Z",
+      "updatedAt": "2026-09-22T16:40:53.927Z"
+    },
+    {
+      "_id": "2a970f7560fcc2ee63bb4543",
+      "brandId": "a46ea301e47a3cd8183d31b9",
+      "title": "HydraGlow 15% Vitamin C Serum Launch",
+      "productName": "HydraGlow Vitamin C Serum",
+      "productDescription": "Dermatologically tested serum targeting hyperpigmentation and instant barrier radiance.",
+      "category": "Beauty",
+      "campaignType": "Paid",
+      "budget": 50000,
+      "deliverables": "1 Dedicated Instagram Reel (30-45s) + 2 Story Frames with swipe-up/sticker link",
+      "deadline": "2026-10-15",
+      "targetAudience": "Skincare enthusiasts aged 18-35 looking for gentle active ingredients",
+      "platform": "Instagram",
+      "description": "Highlight the light texture, non-sticky finish, and visible glow within 7 days.",
+      "status": "Active",
+      "createdAt": "2026-09-22T16:40:53.927Z",
+      "updatedAt": "2026-09-22T16:40:53.927Z"
+    }
+  ],
+  "collaborations": [
+    {
+      "_id": "62394d4399a7378d5cd04323",
+      "campaignId": "b01a1812293dade508114ce4",
+      "brandId": "2d9065cb31f4018cac1c193f",
+      "influencerId": "e17e4124a87527b9bd09cbaa",
+      "collaborationType": "Paid",
+      "budget": 18000,
+      "deliverables": "2 Reels + 3 Stories",
+      "deadline": "2026-11-15",
+      "message": "We adore your aesthetic and would love to partner on our Summer Glow launch!",
+      "status": "Completed",
+      "createdAt": "2026-09-22T17:25:16.415Z",
+      "updatedAt": "2026-09-22T17:25:16.434Z"
+    },
+    {
+      "_id": "41fdef3bdb8f7a4ae2042feb",
+      "campaignId": "c22a40c4cf8301f027fe9aea",
+      "brandId": "3b6b6b8dd5ccdf8c96732a1f",
+      "influencerId": "385d1ba893c769b901e8b414",
+      "collaborationType": "Paid",
+      "budget": 18000,
+      "deliverables": "2 Reels + 3 Stories",
+      "deadline": "2026-11-15",
+      "message": "We adore your aesthetic and would love to partner on our Summer Glow launch!",
+      "status": "Pending",
+      "createdAt": "2026-09-22T17:24:51.355Z",
+      "updatedAt": "2026-09-22T17:24:51.355Z"
+    },
+    {
+      "_id": "af3d6fa62536396e97ec773d",
+      "campaignId": "6c268899d35213e22f04a59b",
+      "brandId": "8a2cb739fc692e1eb835ae52",
+      "influencerId": "4739c9e10577637743cd68ec",
+      "collaborationType": "Paid",
+      "budget": 18000,
+      "deliverables": "1 Tech developer work-from-home wellness setup reel featuring energy shake",
+      "deadline": "2026-10-25",
+      "message": "Rhea, love how you balance coding with fitness. Let us fuel your desk work!",
+      "status": "Accepted",
+      "createdAt": "2026-09-22T16:40:53.930Z",
+      "updatedAt": "2026-09-22T16:40:53.930Z"
+    },
+    {
+      "_id": "297613eda73fcbed3b27a0fc",
+      "campaignId": "6c268899d35213e22f04a59b",
+      "brandId": "8a2cb739fc692e1eb835ae52",
+      "influencerId": "a814d867b9a49e5d9d43d7f7",
+      "collaborationType": "Paid",
+      "budget": 15000,
+      "deliverables": "1 Post-workout shake recipe Reel + macro tips",
+      "deadline": "2026-09-18",
+      "message": "Ananya, your vegetarian high-protein content is super inspiring. Let us partner on our new Chocolate Isolate!",
+      "status": "Completed",
+      "createdAt": "2026-09-22T16:40:53.929Z",
+      "updatedAt": "2026-09-22T16:40:53.929Z"
+    },
+    {
+      "_id": "609337a8776addcf021dc9d1",
+      "campaignId": "2a970f7560fcc2ee63bb4543",
+      "brandId": "a46ea301e47a3cd8183d31b9",
+      "influencerId": "017fc4d80c62d2c703b08609",
+      "collaborationType": "Paid",
+      "budget": 25000,
+      "deliverables": "1 Men Grooming Reel integrating morning skincare routine",
+      "deadline": "2026-10-14",
+      "message": "Hey Kabir, your minimalist styling matches our clean aesthetic. Excited to partner!",
+      "status": "Pending",
+      "createdAt": "2026-09-22T16:40:53.928Z",
+      "updatedAt": "2026-09-22T16:40:53.928Z"
+    },
+    {
+      "_id": "e399f3fc85d1f4ab138d9b9d",
+      "campaignId": "2a970f7560fcc2ee63bb4543",
+      "brandId": "a46ea301e47a3cd8183d31b9",
+      "influencerId": "d10bcdb6818765cc3ce57d20",
+      "collaborationType": "Paid",
+      "budget": 22000,
+      "deliverables": "1 Dedicated Reel showing 7-day before/after texture + 2 Stories",
+      "deadline": "2026-10-10",
+      "message": "Hi Tanya! Love your scientific skincare breakdowns. We would love to feature our new Vitamin C with you!",
+      "status": "In Progress",
+      "createdAt": "2026-09-22T16:40:53.928Z",
+      "updatedAt": "2026-09-22T16:40:53.928Z"
+    }
+  ],
+  "payments": [
+    {
+      "_id": "a2c7cb7004f948d9d5b75c6e",
+      "collaborationId": "62394d4399a7378d5cd04323",
+      "amount": 18000,
+      "status": "Paid",
+      "createdAt": "2026-09-22T17:25:16.425Z",
+      "updatedAt": "2026-09-22T17:25:16.443Z",
+      "paidAt": "2026-09-22T17:25:16.443Z"
+    },
+    {
+      "_id": "a5a11caa3e6b40ef47e20e3e",
+      "collaborationId": "af3d6fa62536396e97ec773d",
+      "amount": 18000,
+      "status": "Pending",
+      "createdAt": "2026-09-22T16:40:53.930Z",
+      "updatedAt": "2026-09-22T16:40:53.930Z"
+    },
+    {
+      "_id": "8f0a58ade787c0a3a376f2ce",
+      "collaborationId": "297613eda73fcbed3b27a0fc",
+      "amount": 15000,
+      "status": "Paid",
+      "paidAt": "2026-09-20T16:40:53.929Z",
+      "createdAt": "2026-09-22T16:40:53.929Z",
+      "updatedAt": "2026-09-22T16:40:53.929Z"
+    },
+    {
+      "_id": "c888a022a6abdd3e4098deac",
+      "collaborationId": "e399f3fc85d1f4ab138d9b9d",
+      "amount": 22000,
+      "status": "Pending",
+      "createdAt": "2026-09-22T16:40:53.928Z",
+      "updatedAt": "2026-09-22T16:40:53.928Z"
+    }
+  ],
+  "notifications": [
+    {
+      "_id": "0af0f7273e7a8f30a36ed57e",
+      "userId": "e17e4124a87527b9bd09cbaa",
+      "message": "Payment of $18000 for \"Summer Glow Serum Launch (Updated)\" has been marked as Paid by Audit Brand Corp!",
+      "type": "payment_update",
+      "relatedId": "a2c7cb7004f948d9d5b75c6e",
+      "createdAt": "2026-09-22T17:25:16.443Z",
+      "updatedAt": "2026-09-22T17:25:16.443Z"
+    },
+    {
+      "_id": "66d9c80199527ea25fa6b304",
+      "userId": "e17e4124a87527b9bd09cbaa",
+      "message": "Collaboration for \"Summer Glow Serum Launch (Updated)\" has been marked as Completed! Great work!",
+      "type": "status_update",
+      "relatedId": "62394d4399a7378d5cd04323",
+      "createdAt": "2026-09-22T17:25:16.435Z",
+      "updatedAt": "2026-09-22T17:25:16.435Z"
+    },
+    {
+      "_id": "b4e1941b311d8485590e3ca3",
+      "userId": "2d9065cb31f4018cac1c193f",
+      "message": "Collaboration for \"Summer Glow Serum Launch (Updated)\" is now marked as In Progress. Deliverables underway!",
+      "type": "status_update",
+      "relatedId": "62394d4399a7378d5cd04323",
+      "createdAt": "2026-09-22T17:25:16.430Z",
+      "updatedAt": "2026-09-22T17:25:16.430Z"
+    },
+    {
+      "_id": "ddd85946f31d1c1437abbb04",
+      "userId": "2d9065cb31f4018cac1c193f",
+      "message": "Audit Creator Zara accepted your collaboration request for \"Summer Glow Serum Launch (Updated)\".",
+      "type": "accepted",
+      "relatedId": "62394d4399a7378d5cd04323",
+      "createdAt": "2026-09-22T17:25:16.425Z",
+      "updatedAt": "2026-09-22T17:25:16.425Z"
+    },
+    {
+      "_id": "ae2452995c54884542cb7a8b",
+      "userId": "e17e4124a87527b9bd09cbaa",
+      "message": "New collaboration request from Audit Brand Corp for campaign \"Summer Glow Serum Launch (Updated)\" ($18000)",
+      "type": "request",
+      "relatedId": "62394d4399a7378d5cd04323",
+      "createdAt": "2026-09-22T17:25:16.416Z",
+      "updatedAt": "2026-09-22T17:25:16.416Z"
+    },
+    {
+      "_id": "651f950ea4f1bc92ade29e93",
+      "userId": "e17e4124a87527b9bd09cbaa",
+      "message": "Welcome to CollabSphere, Audit Creator Zara! Start exploring collaborations now.",
+      "type": "general",
+      "createdAt": "2026-09-22T17:25:16.270Z",
+      "updatedAt": "2026-09-22T17:25:16.270Z"
+    },
+    {
+      "_id": "dba0c1fb05843002c92c3338",
+      "userId": "2d9065cb31f4018cac1c193f",
+      "message": "Welcome to CollabSphere, Audit Brand Corp! Start exploring collaborations now.",
+      "type": "general",
+      "createdAt": "2026-09-22T17:25:16.158Z",
+      "updatedAt": "2026-09-22T17:25:16.158Z"
+    },
+    {
+      "_id": "1ea7baa742e9ba5fe3d4e248",
+      "userId": "385d1ba893c769b901e8b414",
+      "message": "New collaboration request from Audit Brand Corp for campaign \"Summer Glow Serum Launch (Updated)\" ($18000)",
+      "type": "request",
+      "relatedId": "41fdef3bdb8f7a4ae2042feb",
+      "createdAt": "2026-09-22T17:24:51.355Z",
+      "updatedAt": "2026-09-22T17:24:51.355Z"
+    },
+    {
+      "_id": "83f7c76906c012da5919c423",
+      "userId": "385d1ba893c769b901e8b414",
+      "message": "Welcome to CollabSphere, Audit Creator Zara! Start exploring collaborations now.",
+      "type": "general",
+      "createdAt": "2026-09-22T17:24:51.197Z",
+      "updatedAt": "2026-09-22T17:24:51.197Z"
+    },
+    {
+      "_id": "9443344437db261184de7056",
+      "userId": "3b6b6b8dd5ccdf8c96732a1f",
+      "message": "Welcome to CollabSphere, Audit Brand Corp! Start exploring collaborations now.",
+      "type": "general",
+      "createdAt": "2026-09-22T17:24:51.081Z",
+      "updatedAt": "2026-09-22T17:24:51.081Z"
+    },
+    {
+      "_id": "ab70c92a854ced72425da36f",
+      "userId": "0ee2e0241afb586b2def855a",
+      "message": "Welcome to CollabSphere, manu! Start exploring collaborations now.",
+      "type": "general",
+      "createdAt": "2026-09-22T17:15:57.852Z",
+      "updatedAt": "2026-09-22T17:15:57.852Z"
+    },
+    {
+      "_id": "50bac7188d76bc0979b657c6",
+      "userId": "60d2c9db2d9f6418ff60a7b4",
+      "message": "Welcome to CollabSphere, manu! Start exploring collaborations now.",
+      "type": "general",
+      "createdAt": "2026-09-22T17:15:01.175Z",
+      "updatedAt": "2026-09-22T17:15:01.175Z"
+    },
+    {
+      "_id": "79081d57e7750bef946c6b36",
+      "userId": "8a2cb739fc692e1eb835ae52",
+      "message": "Rhea Sen (TechWithRhea) accepted your collaboration request for \"Volt Pure Whey Isolate\".",
+      "type": "accepted",
+      "relatedId": "af3d6fa62536396e97ec773d",
+      "createdAt": "2026-09-22T16:40:53.930Z",
+      "updatedAt": "2026-09-22T16:40:53.930Z"
+    },
+    {
+      "_id": "3e30332f68749683c3199685",
+      "userId": "a814d867b9a49e5d9d43d7f7",
+      "message": "Payment of $15000 for \"Volt Pure Whey Isolate Monsoon Strength Challenge\" has been marked as Paid by Volt Nutrition!",
+      "type": "payment_update",
+      "relatedId": "297613eda73fcbed3b27a0fc",
+      "createdAt": "2026-09-22T16:40:53.929Z",
+      "updatedAt": "2026-09-22T16:40:53.929Z"
+    },
+    {
+      "_id": "99090f01abd8746503a03e91",
+      "userId": "017fc4d80c62d2c703b08609",
+      "message": "New collaboration request from Aura Glow Skincare for campaign \"HydraGlow 15% Vitamin C\" ($25000)",
+      "type": "request",
+      "relatedId": "609337a8776addcf021dc9d1",
+      "createdAt": "2026-09-22T16:40:53.929Z",
+      "updatedAt": "2026-09-22T16:40:53.929Z"
+    },
+    {
+      "_id": "9d287f3a83b4389827fb805d",
+      "userId": "d10bcdb6818765cc3ce57d20",
+      "message": "Aura Glow Skincare approved your script draft! Collab is In Progress.",
+      "type": "status_update",
+      "relatedId": "e399f3fc85d1f4ab138d9b9d",
+      "createdAt": "2026-09-22T16:40:53.928Z",
+      "updatedAt": "2026-09-22T16:40:53.928Z"
+    },
+    {
+      "_id": "98d617e029a4df5bb36c91c7",
+      "userId": "9021972cf7189e58c1cae4d0",
+      "message": "Welcome to CollabSphere! Complete your creator media kit to get discovered by premium brands.",
+      "type": "general",
+      "createdAt": "2026-09-22T16:40:53.927Z",
+      "updatedAt": "2026-09-22T16:40:53.927Z"
+    },
+    {
+      "_id": "d8ece972ca1808562bd71f97",
+      "userId": "6d05863b57ef82150f020863",
+      "message": "Welcome to CollabSphere! Complete your creator media kit to get discovered by premium brands.",
+      "type": "general",
+      "createdAt": "2026-09-22T16:40:53.926Z",
+      "updatedAt": "2026-09-22T16:40:53.926Z"
+    },
+    {
+      "_id": "896212565d29d27854c47843",
+      "userId": "d10bcdb6818765cc3ce57d20",
+      "message": "Welcome to CollabSphere! Complete your creator media kit to get discovered by premium brands.",
+      "type": "general",
+      "createdAt": "2026-09-22T16:40:53.925Z",
+      "updatedAt": "2026-09-22T16:40:53.925Z"
+    },
+    {
+      "_id": "ba3f511185e66df6b2ff8e4d",
+      "userId": "95fbf092e1aee7ea32cdad39",
+      "message": "Welcome to CollabSphere! Complete your creator media kit to get discovered by premium brands.",
+      "type": "general",
+      "createdAt": "2026-09-22T16:40:53.925Z",
+      "updatedAt": "2026-09-22T16:40:53.925Z"
+    },
+    {
+      "_id": "3d7f72b2538bdd41fc71f289",
+      "userId": "96fa5d10f407f93f6b88d910",
+      "message": "Welcome to CollabSphere! Complete your creator media kit to get discovered by premium brands.",
+      "type": "general",
+      "createdAt": "2026-09-22T16:40:53.924Z",
+      "updatedAt": "2026-09-22T16:40:53.924Z"
+    },
+    {
+      "_id": "f7585f551eb1be409ae7abc4",
+      "userId": "a814d867b9a49e5d9d43d7f7",
+      "message": "Welcome to CollabSphere! Complete your creator media kit to get discovered by premium brands.",
+      "type": "general",
+      "createdAt": "2026-09-22T16:40:53.924Z",
+      "updatedAt": "2026-09-22T16:40:53.924Z"
+    },
+    {
+      "_id": "568846ad63e0f19c9c7a4b99",
+      "userId": "017fc4d80c62d2c703b08609",
+      "message": "Welcome to CollabSphere! Complete your creator media kit to get discovered by premium brands.",
+      "type": "general",
+      "createdAt": "2026-09-22T16:40:53.923Z",
+      "updatedAt": "2026-09-22T16:40:53.923Z"
+    },
+    {
+      "_id": "9bf1f5ed8fffc871991dd7a0",
+      "userId": "4739c9e10577637743cd68ec",
+      "message": "Welcome to CollabSphere! Complete your creator media kit to get discovered by premium brands.",
+      "type": "general",
+      "createdAt": "2026-09-22T16:40:53.923Z",
+      "updatedAt": "2026-09-22T16:40:53.923Z"
+    }
+  ],
+  "aiContentIdeas": []
+}

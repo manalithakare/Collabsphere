@@ -1,0 +1,6 @@
+{
+  "name": "CollabSphere",
+  "description": "Brand–Influencer Collaboration Management Platform. Connect. Collaborate. Grow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
